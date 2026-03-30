@@ -1,12 +1,13 @@
 // noinspection SpellCheckingInspection,JSUnresolvedVariable,JSUnresolvedFunction,TypeScriptUMDGlobal,JSUnusedGlobalSymbols
 // ==UserScript==
 // @name XenForoPostDownloader
-// @namespace https://github.com/SkyCloudDev
+// @namespace https://github.com/cornerdebug
 // @author SkyCloudDev
+// @author cornerdebug
 // @description Downloads images and videos from posts
-// @version 3.17
-// @updateURL https://github.com/SkyCloudDev/ForumPostDownloader/raw/main/dist/build.user.js
-// @downloadURL https://github.com/SkyCloudDev/ForumPostDownloader/raw/main/dist/build.user.js
+// @version 3.17.f01
+// @updateURL https://github.com/cornerdebug/saiForumPostDownloader/raw/main/dist/build.user.js
+// @downloadURL https://github.com/cornerdebug/saiForumPostDownloader/raw/main/dist/build.user.js
 // @icon https://simp4.host.church/simpcityIcon192.png
 // @license WTFPL; http://www.wtfpl.net/txt/copying/
 // @match https://simpcity.cr/threads/*
